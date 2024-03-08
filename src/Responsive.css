@@ -1,0 +1,180 @@
+@media screen and (max-width: 1295px){
+    /* .banner__platform__box{
+        margin-top: -70px !important;
+    } */
+    .banner__area{
+        height: 595px;
+    }
+}
+
+@media screen and (max-width: 1295px){
+   
+    .banner__area{
+        height: 595px;
+    }
+    .banner__platform__box{
+        margin-top: -100px;
+    }
+}
+
+
+@media screen and (max-width: 860px){
+    /* .banner__platform__box{
+        margin-top: 20px !important;
+    } */
+}
+@media screen and (max-width: 767px){
+    .table__tab__area{
+        flex-wrap: wrap;
+    }
+    .table__content{
+        margin-top: 55px;
+    }
+    .banner__box h1{
+        font-size: 32px;
+    }
+    .banner__box .head__unlike{
+        font-size: 14px;
+    }
+    .banner__area {
+        height: 630px;
+    }
+
+    .footer__area ul li{
+        font-size: 14px;
+    }
+
+    /* .banner__platform__box{
+        margin-top: -180px;
+    } */
+
+    .datafeed_label_area{
+        display: flex;
+        /* justify-content: center; */
+        margin-bottom: 15px;
+    }
+
+    .equity_label_area{
+        display: flex;
+        /* justify-content: center; */
+        margin-bottom: 15px;
+
+    }
+
+    .mode-text{
+        display: none;
+    }
+}
+@media screen and (max-width: 550px){
+    .banner__platform__box{
+        margin-top: -200px !important;
+    }
+    .banner__area{
+        /* height: auto; */
+    }
+    .banner__logo{
+        width: 170px;
+    }
+    .banner__box h1{
+        font-size: 24px;
+    }
+    .banner__box .head__follow{
+        font-size: 18px;
+    }
+    .footer__area ul li{
+        font-size: 14px;
+        padding-right: 14px;
+    }
+    .banner__box{
+        padding: 20px;
+    }
+    .footer__notes{
+        font-size: 20px;
+    }
+    .table__content th{
+        font-size: 12px;
+    }
+    .banner__box img{
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .footer__area ul li{
+        font-size: 12px;
+    }
+.tab__single{
+    font-size: 12px;
+    }
+    .footer__area{
+        padding: 15px 0px;
+    }
+}
+
+@media screen and (max-width: 556px){
+    /* .equity__radio__area{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    } */
+
+    .equity__radio__area input { 
+        margin-top: 15px;
+    }
+    .equity__radio__area input{
+
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 365px){
+    /* .equity__radio__area{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    } */
+
+    .equity__radio__area input { 
+        margin-top: 25px;
+    }
+    .equity__radio__area input{
+
+        margin-top: 25px;
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .banner__platform__box{
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 474px){
+    .banner__area{
+        height: 650px;
+    }
+}
+
+@media screen and (max-width: 458px){
+    .banner__area{
+        height: 675px;
+    }
+}
+
+@media screen and (max-width: 441px){
+    .banner__platform__box{
+        margin-top: -150px !important;
+    }
+}
+
+@media screen and (max-width: 367px){
+    .banner__platform__box{
+        margin-top: -115px !important;
+    }
+}
+@media screen and (max-width: 332px){
+    .banner__platform__box{
+        margin-top: -80px !important;
+    }
+}
